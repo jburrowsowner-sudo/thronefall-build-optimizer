@@ -1,0 +1,14 @@
+# Empire Blades (Town Center 4)
+
+Town Center IV · +1000 castle HP.
+
+**Melee damage multiplier: 1.8** on purchase. Includes Hunter knives, Lizard Rider bites, Berserk landings, tower oil and melee ruler attacks.
+
+At dusk, outgoing melee and ranged damage use **1 + gold / 1,500**; incoming damage uses **1,500 / (1,500 + gold)**. Gold is not spent.
+
+## Impacted damage dealers
+
+- **Melee damage:** [Barricades](../walls/Barricades.md) · [Battle Axe](../ruler-weapons/Battle%20Axe.md) · [Berserks](../barracks/Berserks.md) · [Bow & Dagger](../ruler-weapons/Bow%20%26%20Dagger.md) · [Defense Tower](../towers/Defense%20Tower.md) · [Falchion & Traps](../ruler-weapons/Falchion%20%26%20Traps.md) · [Field](../economy/Field.md) · [Flails](../barracks/Flails.md) · [Golem](../heroes-quarters/Golem.md) · [Heavy Sword](../ruler-weapons/Heavy%20Sword.md) · [Hunters](../archery-range/Hunters.md) · [Knights](../barracks/Knights.md) · [Light Spear](../ruler-weapons/Light%20Spear.md) · [Lightning Staff](../ruler-weapons/Lightning%20Staff.md) · [Lizard Rider](../heroes-quarters/Lizard%20Rider.md) · [Potion Vials](../ruler-weapons/Potion%20Vials.md) · [Ruler](../ruler-weapons/Ruler.md) · [Spearmen](../barracks/Spearmen.md) · [Wide Gate](../walls/Wide%20Gate.md) · [Wide Wall](../walls/Wide%20Wall.md)
+- **Ranged damage:** [Blood Wand](../ruler-weapons/Blood%20Wand.md) · [Bow & Dagger](../ruler-weapons/Bow%20%26%20Dagger.md) · [Crossbowmen](../archery-range/Crossbowmen.md) · [Defense Tower](../towers/Defense%20Tower.md) · [Field Scarecrow](../economy/Field.md#field-scarecrow) · [Fire Archers](../archery-range/Fire%20Archers.md) · [Firewing](../heroes-quarters/Firewing.md) · [House](../economy/House.md) · [Hunters](../archery-range/Hunters.md) · [Lightning Staff](../ruler-weapons/Lightning%20Staff.md) · [Lizard Rider](../heroes-quarters/Lizard%20Rider.md) · [Longbow Archers](../archery-range/Longbow%20Archers.md) · [Potion Vials](../ruler-weapons/Potion%20Vials.md) · [Shadow Codex](../ruler-weapons/Shadow%20Codex.md) · [Shrine](../shrines/Shrine.md) · [Town Center](Town%20Center.md)
+- **Incoming melee damage, Incoming ranged damage:** [Berserks](../barracks/Berserks.md) · [Crossbowmen](../archery-range/Crossbowmen.md) · [Defense Tower](../towers/Defense%20Tower.md) · [Field](../economy/Field.md) · [Fire Archers](../archery-range/Fire%20Archers.md) · [Firewing](../heroes-quarters/Firewing.md) · [Flails](../barracks/Flails.md) · [Golem](../heroes-quarters/Golem.md) · [House](../economy/House.md) · [Hunters](../archery-range/Hunters.md) · [Knights](../barracks/Knights.md) · [Lizard Rider](../heroes-quarters/Lizard%20Rider.md) · [Longbow Archers](../archery-range/Longbow%20Archers.md) · [Ruler](../ruler-weapons/Ruler.md) · [Spearmen](../barracks/Spearmen.md) · [Town Center](Town%20Center.md) · [Wide Gate](../walls/Wide%20Gate.md) · [Wide Wall](../walls/Wide%20Wall.md)
+- **Castle HP:** [Town Center](Town%20Center.md)
